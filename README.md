@@ -1,2 +1,8 @@
-# python_guessing_number_game
-Fun And Catchy:  A game that challenges you to guess the secret number
+# 🎲 Python Number Guessing Game
+
+A simple number guessing game written in Python.  
+The user has to guess a randomly generated number between 1 and 10.
+
+## How to Run
+```bash
+python guessing_game.py
